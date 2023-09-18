@@ -13,8 +13,6 @@
 //
 // No hints this time ;)
 
-// I AM NOT DONE
-
 // Put your function here!
 pub fn calculate_price_of_apples(quantity : i32) -> i32{
 
